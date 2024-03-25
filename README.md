@@ -2,7 +2,7 @@
 
 # Scheduled Tweets
 
-Esse projeto criar um *clone of buffer* onde podemos criar uma conta, conectar com a conta tweet e programar tweets para ser postados em certos horários.
+Esse projeto criar um *clone of buffer* onde podemos criar uma conta, conectar com a conta tweet e programar tweets para ser postados em horários determinados.
 
 * Ruby version
 	ruby 3.0.6p216
